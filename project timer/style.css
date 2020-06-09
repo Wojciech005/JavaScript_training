@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    background-color: cornflowerblue;
+   }
+ 
+   div {
+    line-height: 100vh;
+    text-align: center;
+    font-size: 50px;
+    font-family: arial;
+    
+   }
+ 
+   span {
+    font-weight: bold;
+    font-family: monospace;
+    
+   }
